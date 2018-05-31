@@ -1,7 +1,7 @@
 {
-  "name": "startmeet",
+  "name": "arqumari",
   "version": "1.0.0",
-  "description": "Finding Registered Events & People Who Want To Go There",
+  "description": "Web Services by Kevin Marinas",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

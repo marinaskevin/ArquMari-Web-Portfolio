@@ -1,0 +1,15 @@
+{
+  "short_name": "Web Services",
+  "name": "Web Services by Kevin Marinas",
+  "display": "standalone",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "type": "image/ico",
+      "sizes": "256x256"
+    }
+  ],
+  "background_color": "#095054",
+  "start_url": "/?utm_source=homescreen"
+}
